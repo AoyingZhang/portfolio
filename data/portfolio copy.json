@@ -1,51 +1,45 @@
 {
-  "name": "Chetan",
+  "name": "Lexie",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Lexie Zhang - curious",
+  "headerTaglineThree": "full stack developer",
+  "headerTaglineFour": "at University of Waterloo.",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/AoyingZhang"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/aoying/"
     },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
-    },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "3", "title": "Email", "link": "mailto:a23zhang@uwaterloo.ca" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Web Design",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "AI ResuMate",
+      "description": "Smart Resume helper for HR. Upload resume pdf and ask AI anything. ",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/AoyingZhang/AIChatbox"
     },
     {
       "id": "2",
-      "title": "Project Two",
-      "description": "Web Development",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Research project: Codebase structure generator",
+      "description": "Confused about a codebase? Let this tool auto-generate the graphic structure to help with understanding. ",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/toledorafael/graphProductLine"
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Autonomous Vehicle",
+      "description": "Computer vision and motor module",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/MishaalUB/Autonomous-Vehicle"
     },
     {
       "id": "4",
@@ -69,20 +63,20 @@
       "url": "http://chetanverma.com/"
     }
   ],
-  "services": [
+  "work experience": [
     {
       "id": "1",
-      "title": "Art Direction",
+      "title": "Software engineer at Senstar Corp",
       "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
     },
     {
       "id": "2",
-      "title": "Branding",
+      "title": "Full stack developer at Toronto Transit Commission",
       "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
     },
     {
       "id": "3",
-      "title": "Web Design",
+      "title": "",
       "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
     },
     {
@@ -115,8 +109,8 @@
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
+      "universityName": "University of Waterloo",
+      "universityDate": "2022-Present",
       "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
     },
     "languages": ["Javascript", "HTML5", "CSS", "Python"],
